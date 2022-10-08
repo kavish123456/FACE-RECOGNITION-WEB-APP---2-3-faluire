@@ -1,0 +1,14 @@
+body {
+    background: lightblue;
+    color: white;
+}
+
+.heading {
+    font-size: 50px;
+    background: lightblue;
+    color: white;
+}
+
+.font-size {
+    font-size: 25px;
+}
